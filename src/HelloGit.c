@@ -21,5 +21,5 @@ int main(int argc, char **argv) {
 
 void printFunction(signed char i = 0)
 {
-	printf("%d print function!", i);
+	printf("%d before checkout print function!", i);
 }
