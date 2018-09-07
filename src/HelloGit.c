@@ -21,5 +21,5 @@ int main(int argc, char **argv) {
 
 void printFunction(signed char i = 0)
 {
-	printf("%d change the whole text!", i);
+	printf("%d print function!", i);
 }
